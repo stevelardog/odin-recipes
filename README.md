@@ -1,1 +1,3 @@
 # odin-recipes
+
+I mostly learned about git and how to commit....
